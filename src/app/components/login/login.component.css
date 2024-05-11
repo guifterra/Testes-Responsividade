@@ -11,5 +11,17 @@
   .w-30rem{
     width: 320px;
   }
+
+  .input-default{
+    width: 250px;
+  }
+
+  .botao-senha {
+    width: 200px;
+  }
+
+  .w-responsive{
+    max-width: 320px;
+  }
 }
 
